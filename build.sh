@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t tangramor/slidev .
+docker build -t colindckr/slidev .
